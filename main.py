@@ -135,5 +135,5 @@ if __name__ == '__main__':
         setup() # calling the setup() method
         loop() # calling the loop() method
           
-    except KeyboardInterrupt:
+    except error:
         all_off() # all leds turned off
