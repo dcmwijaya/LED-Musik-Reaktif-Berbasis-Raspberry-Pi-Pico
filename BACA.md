@@ -47,19 +47,13 @@
 ## Rancangan Proyek
 <table>
 <tr>
-<th width="420">Diagram Blok</th>
-<th width="420">Diagram Ilustrasi</th>
+<th width="280">Diagram Blok</th>
+<th width="280">Diagram Ilustrasi</th>
+<th width="280">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="" alt="Block-Diagram"></td>
-<td><img src="" alt="Pictorial-Diagram"></td>
-</tr>
-</table>
-<table>
-<tr>
-<th width="840">Pengkabelan</th>
-</tr>
-<tr>
+<td><img src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/bb91d3f4-d02a-4c98-9538-6bf1f0de724f" alt="Block-Diagram"></td>
+<td><img src="" alt="Pictorial-Diagram"></td>   
 <td><img src="" alt="Wiring"></td>
 </tr>
 </table>
