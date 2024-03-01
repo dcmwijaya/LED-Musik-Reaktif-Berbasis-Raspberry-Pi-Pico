@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/bb91d3f4-d02a-4c98-9538-6bf1f0de724f" alt="Block-Diagram"></td>
-<td><img src="" alt="Pictorial-Diagram"></td>   
+<td><img src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/46697952-d430-432c-94fb-fcea55ab3f8c" alt="Pictorial-Diagram"></td>
 <td><img src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/10717ed4-ce88-40d7-b2c2-1bae12c23503" alt="Wiring"></td>
 </tr>
 </table>
