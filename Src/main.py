@@ -24,98 +24,42 @@ def loop():
         Value = Sensor.read_u16() # reads the adc value from the sensor
         print(Value) # print the adc value from the sensor
         
-        all_off() # all leds turned off
-        
         if Value >= 55000: # if the adc value is greater than 55000 then:
             Led1.high() # led 1 on
-            Led2.low()
-            Led3.low()
-            Led4.low()
-            Led5.low()
-            Led6.low()
-            Led7.low()
-            Led8.low()
-            Led9.low()
+            sleep(0.1) # delay 0,1 second
+            all_off() # all leds turned off
         elif Value >= 50000: # if the adc value is greater than 50000 then:
-            Led1.low()
             Led2.high() # led 2 on
-            Led3.low()
-            Led4.low()
-            Led5.low()
-            Led6.low()
-            Led7.low()
-            Led8.low()
-            Led9.low()
+            sleep(0.1) # delay 0,1 second
+            all_off() # all leds turned off
         elif Value >= 45000: # if the adc value is greater than 45000 then:
-            Led1.low()
-            Led2.low()
             Led3.high() # led 3 on
-            Led4.low()
-            Led5.low()
-            Led6.low()
-            Led7.low()
-            Led8.low()
-            Led9.low()
+            sleep(0.1) # delay 0,1 second
+            all_off() # all leds turned off
         elif Value >= 40000: # if the adc value is greater than 40000 then:
-            Led1.low()
-            Led2.low()
-            Led3.low()
             Led4.high() # led 4 on
-            Led5.low()
-            Led6.low()
-            Led7.low()
-            Led8.low()
-            Led9.low()
+            sleep(0.1) # delay 0,1 second
+            all_off() # all leds turned off
         elif Value >= 35000: # if the adc value is greater than 35000 then:
-            Led1.low()
-            Led2.low()
-            Led3.low()
-            Led4.low()
             Led5.high() # led 5 on
-            Led6.low()
-            Led7.low()
-            Led8.low()
-            Led9.low()
+            sleep(0.1) # delay 0,1 second
+            all_off() # all leds turned off
         elif Value >= 30000: # if the adc value is greater than 30000 then:
-            Led1.low()
-            Led2.low()
-            Led3.low()
-            Led4.low()
-            Led5.low()
             Led6.high() # led 6 on
-            Led7.low()
-            Led8.low()
-            Led9.low()
+            sleep(0.1) # delay 0,1 second
+            all_off() # all leds turned off
         elif Value >= 25000: # if the adc value is greater than 25000 then:
-            Led1.low()
-            Led2.low()
-            Led3.low()
-            Led4.low()
-            Led5.low()
-            Led6.low()
             Led7.high() # led 7 on
-            Led8.low()
-            Led9.low()
+            sleep(0.1) # delay 0,1 second
+            all_off() # all leds turned off
         elif Value >= 20000: # if the adc value is greater than 20000 then:
-            Led1.low()
-            Led2.low()
-            Led3.low()
-            Led4.low()
-            Led5.low()
-            Led6.low()
-            Led7.low()
             Led8.high() # led 8 on
-            Led9.low()
+            sleep(0.1) # delay 0,1 second
+            all_off() # all leds turned off
         elif Value >= 15000: # if the adc value is greater than 15000 then:
-            Led1.low()
-            Led2.low()
-            Led3.low()
-            Led4.low()
-            Led5.low()
-            Led6.low()
-            Led7.low()
-            Led8.low()
             Led9.high() # led 9 on
+            sleep(0.1) # delay 0,1 second
+            all_off() # all leds turned off
 
 # method: all_off
 def all_off():
