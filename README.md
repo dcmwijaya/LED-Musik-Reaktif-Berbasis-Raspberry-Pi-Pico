@@ -127,7 +127,16 @@
 <br><br>
 
 ## Highlights
-<img width="840" src="" alt="reactive-music-led">
+<table>
+<tr>
+<th width="420">View-1</th>
+<th width="420">View-2</th>
+</tr>
+<tr>
+<td><img width="840" src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/6cacee09-4b5c-428f-ace2-0d7d7a1466e6" alt="img-1"></td>
+<td><img width="840" src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/1757076e-3e19-401a-8afa-c6c6becae9e2" alt="img-2"></td>
+</tr>
+</table>
 
 <br><br>
 
