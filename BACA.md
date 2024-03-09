@@ -141,6 +141,9 @@
 
 <br><br>
 
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+
 <br><br>
 
 ## LISENSI
