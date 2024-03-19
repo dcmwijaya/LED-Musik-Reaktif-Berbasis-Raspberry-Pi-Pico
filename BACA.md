@@ -17,7 +17,7 @@
 | Paket | • machine (bawaan)<br>• utime (bawaan) |
 | Aktuator | LED (x9) |
 | Sensor | FC-04: Sensor Suara (x1) |
-| Komponen Lainnya | • Kabel USB mikro - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Breadboard (x1) |
+| Komponen Lainnya | • Kabel USB Mikro - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Breadboard (x1) |
 
 <br><br>
 
