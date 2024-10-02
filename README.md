@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico)
-![Project](https://img.shields.io/badge/Project-Raspberry%20Pi%20Pico-light.svg?style=flat&logo=raspberrypi&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Raspberry-light.svg?style=flat&logo=raspberrypi&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico
 <strong>Solo Project: Raspberry Pi Pico-based Reactive Music LED</strong><br><br>
@@ -51,9 +52,9 @@
 <th width="280">Wiring</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/bb91d3f4-d02a-4c98-9538-6bf1f0de724f" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/46697952-d430-432c-94fb-fcea55ab3f8c" alt="Pictorial-Diagram"></td>
-<td><img src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/10717ed4-ce88-40d7-b2c2-1bae12c23503" alt="Wiring"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
+<td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -133,8 +134,8 @@
 <th width="420">View-2</th>
 </tr>
 <tr>
-<td><img width="840" src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/6cacee09-4b5c-428f-ace2-0d7d7a1466e6" alt="img-1"></td>
-<td><img width="840" src="https://github.com/devancakra/LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico/assets/54527592/1757076e-3e19-401a-8afa-c6c6becae9e2" alt="img-2"></td>
+<td><img width="840" src="Assets/Documentation/Experiment/View-1.jpg" alt="view-1"></td>
+<td><img width="840" src="Assets/Documentation/Experiment/View-2.jpg" alt="view-2"></td>
 </tr>
 </table>
 
