@@ -5,7 +5,7 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # LED-Musik-Reaktif-Berbasis-Raspberry-Pi-Pico
-<strong>Solo Project: Raspberry Pi Pico-based Reactive Music LED</strong><br><br>
+This project was created for entertainment purposes only.
 
 ## Project Requirements
 | Part | Description |
